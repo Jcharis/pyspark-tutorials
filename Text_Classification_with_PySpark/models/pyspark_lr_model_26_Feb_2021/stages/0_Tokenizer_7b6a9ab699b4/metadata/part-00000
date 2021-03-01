@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1614358502761,"sparkVersion":"3.0.2","uid":"Tokenizer_7b6a9ab699b4","paramMap":{"outputCol":"mytokens","inputCol":"course_title"},"defaultParamMap":{"outputCol":"Tokenizer_7b6a9ab699b4__output"}}
